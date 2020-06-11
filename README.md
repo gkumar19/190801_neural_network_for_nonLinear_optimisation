@@ -7,7 +7,7 @@ The problem in my hand is to find input [features] in a way that the output [Tar
 
 The input to output correlation also being non-linear, thus a linear programming was not an option, thus i have used neural network to model up the input to output relationship [lets call it model_a] and extended the model_a to make a new neural network model [lets call it model_b] in a manner which can be used to optimise over model_a
 
-Additionally, the benefit with this approach being, it was not very difficult and became trivial to further introduce some really complicated boundary conditions [How the optuput should reach to become, Constraints over the inputs, etc]
+Additionally, the benefit with this approach being, it was not very difficult and became trivial to further introduce some really complicated boundary conditions [How the output should reach to become, Constraints over the inputs, etc]
 
 In my opinion the idea is powerful and can be extended over wide ranges of optimisation problem statement
 
