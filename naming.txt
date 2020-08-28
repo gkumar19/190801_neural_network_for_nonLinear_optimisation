@@ -1,0 +1,33 @@
+epm_neng	x1
+injctl_qsetunbal	x2
+cengdst_t	x3
+injcrv_qpii1des_mp	x4
+injcrv_phimi1des	x5
+injcrv_tipii1des	x6
+railp_pflt	x7
+thrvlv_ract	x8
+afs_mairpercyl	x9
+envp_p	x10
+
+
+nox_g/h	y1
+hc_g/h	y2
+russ_g/h	y3
+co_g/h	y4
+bsfc_g/kwh	y5
+smoke	y6
+t3_c	y7
+pzmax_bar	y8
+toel_c	y9
+poel_bar	y10
+p4a1abs_mbar	y11
+dpic_mbar	y12
+t2_i1_c	y13
+turb_spd_/min	y14
+p2_l1abs_mbar	y15
+lambda	y16
+lambda_inv	y17
+ger_inm_db	y18
+co2_kg/h	y19
+opac_ana	y20
+egrvlv_ract	y21
